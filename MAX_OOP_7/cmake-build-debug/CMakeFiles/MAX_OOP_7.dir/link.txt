@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/MAX_OOP_7.dir/main.cpp.o CMakeFiles/MAX_OOP_7.dir/Vector.cpp.o CMakeFiles/MAX_OOP_7.dir/Time.cpp.o  -o MAX_OOP_7 

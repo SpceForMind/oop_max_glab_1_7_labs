@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/spaceformind/CLionProjects/MAX_OOP_LAB2/customer.cpp
+customer.h
+/home/spaceformind/CLionProjects/MAX_OOP_LAB2/customer.h
+iostream
+-
+string
+-
+
+/home/spaceformind/CLionProjects/MAX_OOP_LAB2/customer.h
+iostream
+-
+string
+-
+

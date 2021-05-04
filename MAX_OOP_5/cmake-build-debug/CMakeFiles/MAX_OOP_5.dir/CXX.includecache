@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/spaceformind/CLionProjects/MAX_OOP_5/Object.h
+
+/home/spaceformind/CLionProjects/MAX_OOP_5/Vector.cpp
+Vector.h
+/home/spaceformind/CLionProjects/MAX_OOP_5/Vector.h
+
+/home/spaceformind/CLionProjects/MAX_OOP_5/Vector.h
+Object.h
+/home/spaceformind/CLionProjects/MAX_OOP_5/Object.h
+string
+-
+iostream
+-
+

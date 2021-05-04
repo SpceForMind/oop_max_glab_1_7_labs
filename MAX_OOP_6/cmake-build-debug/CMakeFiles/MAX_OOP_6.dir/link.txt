@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/MAX_OOP_6.dir/main.cpp.o CMakeFiles/MAX_OOP_6.dir/Vector.cpp.o CMakeFiles/MAX_OOP_6.dir/Set.cpp.o  -o MAX_OOP_6 

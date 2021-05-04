@@ -1,0 +1,3 @@
+/home/spaceformind/CLionProjects/MAX_OOP_7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/spaceformind/CLionProjects/MAX_OOP_7/cmake-build-debug/CMakeFiles/MAX_OOP_7.dir
+/home/spaceformind/CLionProjects/MAX_OOP_7/cmake-build-debug/CMakeFiles/edit_cache.dir

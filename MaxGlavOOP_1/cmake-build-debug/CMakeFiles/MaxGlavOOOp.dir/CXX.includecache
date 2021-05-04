@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/spaceformind/CLionProjects/MaxGlavOOP_1/fraction.cpp
+iostream
+-
+math.h
+-
+fraction.h
+/home/spaceformind/CLionProjects/MaxGlavOOP_1/fraction.h
+
+/home/spaceformind/CLionProjects/MaxGlavOOP_1/fraction.h
+
+/home/spaceformind/CLionProjects/MaxGlavOOP_1/main.cpp
+iostream
+-
+fraction.h
+/home/spaceformind/CLionProjects/MaxGlavOOP_1/fraction.h
+
